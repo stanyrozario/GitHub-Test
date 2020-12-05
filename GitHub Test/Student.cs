@@ -8,5 +8,6 @@ namespace GitHub_Test
 {
     class Student
     {
+        public int Id { get; set; }
     }
 }
